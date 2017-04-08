@@ -50,6 +50,10 @@ body {
   margin-top: 10px;
 }
 
+.margin-above-top-zero {
+  margin-top: 0px;
+}
+
 .margin-above-top-sm {
   margin-top: 20px;
 }
@@ -64,6 +68,10 @@ body {
 
 .margin-below-bottom-xs {
   margin-bottom: 10px;
+}
+
+.margin-below-bottom-zero {
+  margin-bottom: 0px;
 }
 
 .margin-below-bottom-sm {
